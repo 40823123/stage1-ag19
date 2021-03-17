@@ -19,13 +19,26 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210317150614.1"><vh>slide2-1</vh></v>
+<v t="leo.20210317150615.1"><vh>slide2-2</vh></v>
+<v t="leo.20210317150616.1"><vh>slide2-3</vh></v>
+<v t="leo.20210317150616.2"><vh>slide2-4</vh></v>
+<v t="leo.20210317150617.1"><vh>slide2-5</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210317150902.1"><vh>slide3-4</vh></v>
+<v t="leo.20210317150903.1"><vh>slide3-5</vh></v>
+<v t="leo.20210317150903.2"><vh>slide3-6</vh></v>
+<v t="leo.20210317151057.1"><vh>slide3-7</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210317151128.1"><vh>slide4-1</vh></v>
+<v t="leo.20210317151128.2"><vh>slide4-2</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -208,21 +221,16 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+   &lt;h3&gt;stage1-ag19簡報&lt;/h3&gt;
+    
+    
+        &lt;small&gt;&lt;p&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;我的網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;小組網站&lt;/a&gt;&lt;a href="https://40823136.github.io/cd2021/content/index.html"&gt;組員&lt;/a&gt;&lt;/p&gt;&lt;/small&gt;
+    
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;w2&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+<t tx="leo.20200818170535.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
@@ -232,37 +240,28 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+
+&lt;section&gt;
+ @others
+
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
+    &lt;h2&gt;W3進度&lt;/h2&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;實物模擬&lt;/h2&gt;
+    &lt;p&gt;利用coppeliasim第一次測試&lt;/p&gt;
+    &lt;a&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RRznqvxBcuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt; &lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
+    &lt;h2&gt;第一次測試問題&lt;/h2&gt;
+    &lt;p&gt;無法精準的將球體丟置理想位置達到全倒的成果,考慮將沙包改形狀或後方輪胎直徑增大&lt;/p&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -647,6 +646,65 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317150614.1">&lt;section&gt;
+    &lt;h2&gt;W2進度&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317150615.1">&lt;section&gt;
+    &lt;h2&gt;主題&lt;/h2&gt;
+    &lt;p&gt;
+       與組員討論後決定做投石機
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E4%B8%8B%E8%BC%89.jpg?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317150616.1">&lt;section&gt;
+    &lt;h2&gt;作動方式&lt;/h2&gt;
+    &lt;p&gt;
+       投石器大多用繩子或槓桿原理來做動
+       我們打算直接用coppeliasim的joint來替代出力點&lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%96.png?raw=true" alt="" width="400" height="300"&gt;
+       &lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%962.png?raw=true" alt="" width="400" height="300"&gt;&lt;/p&gt;
+       
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317150616.2">&lt;section&gt;
+    &lt;h2&gt;最初草圖&lt;/h2&gt;
+   &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/2.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+    
+&lt;/section&gt;</t>
+<t tx="leo.20210317150617.1">&lt;section&gt;
+    &lt;h2&gt;繪製投石機2.0&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RjVcg4wXsw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210317150902.1">&lt;section&gt;
+    &lt;h2&gt;第二次測試&lt;/h2&gt;
+    &lt;a&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AjqtpE51k1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317150903.1">&lt;section&gt;
+    &lt;h2&gt;第二次測試問題&lt;/h2&gt;
+    &lt;p&gt;沒想到輪子配重問題,使整台車重心不穩導致球體未達到理想的地方&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317150903.2">&lt;section&gt;
+    &lt;h2&gt;第三次測試&lt;/h2&gt;
+  &lt;a&gt; &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ersMQXUpdS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317151057.1">&lt;section&gt;
+    &lt;h2&gt;第三次測試問題&lt;/h2&gt;
+    &lt;p&gt;用solidwork製作的城牆到coppeliasim後需要進行拘束的動作來達到物體不會穿透的地步,但是拘束後卻無法將他擊垮但是投石的力道與準確度已經達成&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317151128.1">&lt;section&gt;
+    &lt;h2&gt;W4進度&lt;/h2&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210317151128.2">&lt;section&gt;
+    &lt;h2&gt;產品設計報告&lt;/h2&gt;
+        &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1BlcDNj58LyIoC8g5-watsF_PmFCRPkbv/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
