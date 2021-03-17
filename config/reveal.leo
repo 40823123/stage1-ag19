@@ -224,7 +224,7 @@ vertical: body pane on the botton</t>
    &lt;h3&gt;stage1-ag19簡報&lt;/h3&gt;
     
     
-        &lt;small&gt;&lt;p&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;小組網站&lt;/a&gt;&lt;a href="https://40823136.github.io/cd2021/content/index.html"&gt;組員&lt;/a&gt;&lt;/p&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;p&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;40823123&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;小組網站&lt;/a&gt;&lt;a href="https://40823136.github.io/cd2021/content/index.html"&gt;40823136&lt;/a&gt;&lt;/p&gt;&lt;/small&gt;
     
 &lt;/section&gt;
 </t>
