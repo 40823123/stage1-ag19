@@ -710,8 +710,7 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210318134435.1">&lt;section&gt;
     &lt;h2&gt;組合圖&lt;/h2&gt;
-  &lt;p&gt;&lt;img alt="" height="188" src="https://github.com/40823136/cd2021/blob/main/images/%E7%B5%84%E5%90%88.png?raw=true" width="394"/&gt;&lt;/p&gt;
-  
+&lt;p&gt;&lt;img alt="" height="200" src="./../images/組合.png" width="450"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
