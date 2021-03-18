@@ -22,10 +22,10 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210317150614.1"><vh>slide2-1</vh></v>
 <v t="leo.20210317150615.1"><vh>slide2-2</vh></v>
+<v t="leo.20210318140731.1"><vh>slide2-2-1</vh></v>
 <v t="leo.20210317150616.1"><vh>slide2-3</vh></v>
 <v t="leo.20210317150616.2"><vh>slide2-4</vh></v>
 <v t="leo.20210317150617.1"><vh>slide2-5</vh></v>
-<v t="leo.20210318134435.1"><vh>slide2-6</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -708,9 +708,12 @@ console.log( '"customevent" has fired' );
         &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1BlcDNj58LyIoC8g5-watsF_PmFCRPkbv/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
-<t tx="leo.20210318134435.1">&lt;section&gt;
-    &lt;h2&gt;組合圖&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="200" src="./../images/組合.png" width="450"/&gt;&lt;/p&gt;
+<t tx="leo.20210318140731.1">&lt;section&gt;
+    &lt;h2&gt;動機&lt;/h2&gt;
+   &lt;p&gt;在古希臘、古羅馬時即在使用，以絞繩的扭力來發射彈體。即使到現代即使戰爭用不到投石機,拋物線的原理卻無法取代,廣泛運用在我們日常生活中,籃球投籃 足球射門  導彈軌道 等,甚至有些工程也時常運用到投石原理,此時你會覺得奇怪都已經有很多方式可以取代投石了怎麼還是有在使用呢?這又要講到成本問題,投石原理所使用到的東西好取得成本又低所以並不會被取代,但是投石出去並不單單只是投出去!飛多高落到哪個方位都是需要精密計算的!!
+&lt;/p&gt;
+       
+    
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
