@@ -25,6 +25,7 @@
 <v t="leo.20210317150616.1"><vh>slide2-3</vh></v>
 <v t="leo.20210317150616.2"><vh>slide2-4</vh></v>
 <v t="leo.20210317150617.1"><vh>slide2-5</vh></v>
+<v t="leo.20210318134435.1"><vh>slide2-6</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -679,6 +680,7 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210317150617.1">&lt;section&gt;
     &lt;h2&gt;繪製投石機2.0&lt;/h2&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RjVcg4wXsw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+     &lt;p&gt;&lt;a href="https://drive.google.com/drive/u/0/folders/1LEC6oQ8GNH74uakIbjCPXtFzB-8zmvcE"&gt;STL檔&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210317150902.1">&lt;section&gt;
@@ -705,6 +707,11 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;產品設計報告&lt;/h2&gt;
         &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1BlcDNj58LyIoC8g5-watsF_PmFCRPkbv/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
+&lt;/section&gt;</t>
+<t tx="leo.20210318134435.1">&lt;section&gt;
+    &lt;h2&gt;組合圖&lt;/h2&gt;
+  &lt;p&gt;&lt;img alt="" height="188" src="./../images/組合.png" width="394"/&gt;&lt;/p&gt;
+  
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
